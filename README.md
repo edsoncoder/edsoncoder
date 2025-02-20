@@ -7,4 +7,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6UzGIl8FYWHDCScXH1KoPK?si=f24f3e4372a24b00&pt=42282adeeb98a273f9a97d8e6603f229)
 
 ## 🔨 Languages And Tools
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,ubuntu,windows,yarn,npm,mongodb,nestjs,express,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,ubuntu,windows,yarn,npm,mongodb,express,vscode,github,git)](https://skillicons.dev)
